@@ -8,22 +8,23 @@
 <br>  
 ## Objetivo do projecto
 
-Criar uma planilha no **Excel** que faz o controle de estoque de productos, onde demonstro o cadastro de produtos bem como as entradas e saída dos mesmos. A mesma planilha esta devidada em 2 Sheets (folhas) **"Cadastro dos productos"** 
+Criar uma planilha no **Excel** que faz o controle de estoque de productos, onde demonstro o cadastro de productos bem como as entradas e saída dos mesmos. A mesma planilha esta devidada em 2 Sheets (folhas) **"Cadastro dos productos"** 
 e **"Entradas e Saídas"**:
 <br>
 <br>
 ### Cadastro de produtos
 
-Nesta sheet é onde faço onde faço o cadastro dos productos, na qual apuro o preço unitário de cada producto, as entradas e saídas e o saldo.
-<br>
-
-
-
-### Análises
-
-Nesta sheet é onde se tem maior visão e controle dos gastos, como por exemplo o balanço que ajuda a entender a minha situação financeira atual, e as alguns filtros por exemplo saber o que se gastou em uma determinada data e etc.
+Nesta sheet é onde faço onde faço o cadastro dos productos, na qual apuro o preço unitário de compra de cada producto, as entradas e saídas e o saldo.
 <br>
 <br>
-![analise](https://github.com/vanilda11/controlo-financeiro-pessoal/assets/166237563/ff4f8e0d-1629-4464-bcc9-0e8f6327ce0e)
+![cadastro de producto](https://github.com/vanilda11/inventario-controle-de-estoque/assets/166237563/4ef9a59c-6a86-4fc1-82a7-682a48e679c5)
+
+
+### Entradas e Saídas
+
+Nesta sheet onde faço o registo das entradas e saídas de productos, na qual apuro o preço de venda de cada producto, as quantidades e os valores totais das vendas.
+<br>
+<br>
+
 
 
